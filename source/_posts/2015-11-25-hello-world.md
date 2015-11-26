@@ -1,4 +1,5 @@
 title: Hello World!
+date: 2015-11-25 00:00:00
 ---
 Hello everyone! This is our very first post on our blog! Luckily we'll keep you up to date on how our games are going, so that you can give us feedback and get closer to us.
 
